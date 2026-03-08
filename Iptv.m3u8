@@ -8,37 +8,37 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/07/icon.png" group-title="Republica Dominicana", telemicro canal 5
 http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", telesistema 11
+#EXTINF:-1 tvg-logo="https://cdn.evaluar.com/jobboards/prod/wp-content/uploads/jobboards/sites/592/2024/03/11175335/logofooter.png" group-title="Republica Dominicana", telesistema 11
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", telecentro canal 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Telecentro_Dominicana.png" group-title="Republica Dominicana", telecentro canal 13
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", teleantillas canal 2
+#EXTINF:-1 tvg-logo="https://teleantillas.com.do/wp-content/uploads/2025/03/LOGO-TELEANTILLAS-2-1.png" group-title="Republica Dominicana", teleantillas canal 2
 http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN366819347382115.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", digital 15
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_1.png" group-title="Republica Dominicana", digital 15
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", catorce Tv
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3407-800x450-FFFFFF.jpg" group-title="Republica Dominicana", catorce Tv
 http://190.122.104.210:5080/LiveApp/streams/catorcetv.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", microvision canal 9
+#EXTINF:-1 tvg-logo="https://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="Republica Dominicana", microvision canal 9
 http://190.122.104.210:5080/LiveApp/streams/microvision.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", CDN canal 3
+#EXTINF:-1 tvg-logo="https://wp.cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg" group-title="Republica Dominicana", CDN canal 3
 http://190.122.104.210:5080/LiveApp/streams/cdnlocal.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", RTVD
+#EXTINF:-1 tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-1.webp" group-title="Republica Dominicana", RTVD
 http://190.122.104.210:5080/LiveApp/streams/RTVD.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", el seis
+#EXTINF:-1 tvg-logo="https://elseis.do/img/logo-new-transparent.png" group-title="Republica Dominicana", el seis
 http://190.122.104.210:5080/frombroadcaster/streams/YY6rVedEXiSnbYK91647897256931281.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", antena nacional 7
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/antena7.jpg" group-title="Republica Dominicana", antena nacional 7
 http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", CDN sports
+#EXTINF:-1 tvg-logo="wp.cdn.com.do/wp-content/uploads/2022/05/artes-logo-cdn.jpg"  group-title="Republica Dominicana", CDN sports
 http://190.122.104.210:5080/LiveApp/streams/cdnsport.m3u8
 
 #EXTINF:-1 tvg-logo=" group-title="Republica Dominicana", canal 20
